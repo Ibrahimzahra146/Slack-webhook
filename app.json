@@ -1,9 +1,9 @@
 {
-  "name": "API.AI Facebook integration",
-  "description": "Api.ai Facebook integration allows you to create Facebook bots with natural language understanding based on Api.ai technology.",
-  "repository": "https://github.com/api-ai/api-ai-facebook",
+  "name": "Api.AI webhook",
+  "description": "",
+  "repository": "https://github.com/Ibrahimzahra146/Slack-webhook",
   "logo": "http://xvir.github.io/img/apiai.png",
-  "keywords": ["api.ai", "facebook", "natural language"],
+  "keywords": ["natural language"],
   "env": {
   },
   "engines": {
