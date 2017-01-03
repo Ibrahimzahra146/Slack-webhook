@@ -9,7 +9,7 @@ const REST_PORT = (process.env.PORT || 5000);
 const APIAI_ACCESS_TOKEN = "";
 const APIAI_LANG = process.env.APIAI_LANG || 'en';
 const apiAiService = apiai(APIAI_ACCESS_TOKEN);
-var Botkit = require('.././lib/Botkit.js');
+
 var os = require('os');
 var db = require('node-localdb');
 
